@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Service Menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_sub">Subscription</string>
+    <string name="menu_service">MTN Services</string>
+    <string name="menu_senkyu">MTN Senkyu</string>
+    <string name="menu_tips">Tips and Tricks</string>
+    <string name="menu_recommend">Recommend myMTN</string>
+    <string name="menu_share">Share On Social Media</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_portal">Staff Portal</string>
+    <string name="menu">Menu</string>
+    <string name="slogan">Every Where You Go</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

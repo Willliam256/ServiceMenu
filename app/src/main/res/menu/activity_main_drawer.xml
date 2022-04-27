@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_baseline_person_24"
+            android:title="@string/menu_profile" />
+        <item
+            android:id="@+id/nav_subscriptions"
+            android:icon="@drawable/ic_subscriptions"
+            android:title="@string/menu_sub" />
+        <item
+            android:id="@+id/nav_services"
+            android:icon="@drawable/ic_services"
+            android:title="@string/menu_service" />
+        <item
+            android:id="@+id/nav_senkyu"
+            android:icon="@drawable/ic_senkyu"
+            android:title="@string/menu_senkyu" />
+        <item
+            android:id="@+id/nav_tips"
+            android:icon="@drawable/ic_subscriptions"
+            android:title="@string/menu_tips" />
+        <item
+            android:id="@+id/nav_recommend"
+            android:icon="@drawable/ic_recommend"
+            android:title="@string/menu_recommend" />
+        <item
+            android:id="@+id/share"
+            android:icon="@drawable/ic_share"
+            android:title="@string/menu_share" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings"
+            android:title="@string/menu_settings" />
+        <item
+            android:id="@+id/nav_portal"
+            android:icon="@drawable/ic_portal"
+            android:title="@string/menu_portal" />
+    </group>
+</menu>
